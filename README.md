@@ -5,5 +5,5 @@ This is a custom devboard made by following KaiPereira from HCB. It is based on 
 
 ## BOM
 Here is the BOM file: 
-[View the BOM](bom.csv)
+[View the BOM](black-board.csv)
 
